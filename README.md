@@ -57,6 +57,35 @@ Alongside academics, I serve as Co-Lead of the Artificial Intelligence Hub (AIH)
 
 * Oracle Cloud Infrastructure Foundations Associate
 ---
+## Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,fastapi,mongodb,mysql,git,github,vscode,aws" />
+</p>
+
+## Cloud & Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+## Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" />
+</p>
+
+## Frameworks & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,fastapi,git,github,vscode" />
+</p>
+
+## Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
 
 
 ## GitHub Statistics

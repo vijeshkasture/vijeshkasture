@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vijeshkasture/vijeshkasture/assests/banner.png" alt="Banner" width="100%">
+</p>
+
+
+
 <h1 align="center">Vijesh Kasture</h1>
 
 <p align="center">

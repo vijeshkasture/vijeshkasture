@@ -7,8 +7,9 @@ Computer & Information Technology Student <br>
 Cloud Computing Enthusiast | Python Developer | AIH Co-Lead
 </p>
 
----
+--
 
+l
 ## About
 
 I am a Computer & Information Technology student at Chameli Devi Group of Institutions, Indore.
@@ -21,8 +22,6 @@ Alongside academics, I serve as Co-Lead of the Artificial Intelligence Hub (AIH)
 
 ## Current Focus
 
-* Python Programming
-* NumPy and Pandas
 * FastAPI
 * Cloud Computing
 * Data Structures and Algorithms
@@ -34,7 +33,7 @@ Alongside academics, I serve as Co-Lead of the Artificial Intelligence Hub (AIH)
 
 ### Languages
 
-* Python + NumPy
+* Python + NumPy + Pandas
 * JavaScript
 * SQL
 * HTML

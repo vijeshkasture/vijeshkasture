@@ -8,8 +8,6 @@ Cloud Computing Enthusiast | Python Developer | AIH Co-Lead
 </p>
 
 --
-
-l
 ## About
 
 I am a Computer & Information Technology student at Chameli Devi Group of Institutions, Indore.

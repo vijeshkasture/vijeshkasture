@@ -10,7 +10,7 @@ Cloud Computing Enthusiast | Python Developer | AIH Co-Lead
 --
 ## About
 
-I am a Computer & Information Technology student at Chameli Devi Group of Institutions, Indore.
+I am a Computer science & Information Technology student at Chameli Devi Group of Institutions, Indore.
 
 My primary interests are cloud computing, backend development, and building practical software solutions. I enjoy working with Python and continuously improving my understanding of modern development tools and cloud technologies.
 

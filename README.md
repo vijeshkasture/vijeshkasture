@@ -53,6 +53,7 @@ Alongside academics, I serve as Co-Lead of the Artificial Intelligence Hub (AIH)
 ## Certifications
 
 * Oracle Cloud Infrastructure Foundations Associate
+
 ---
 
 ## Technologies

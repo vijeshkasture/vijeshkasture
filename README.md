@@ -14,7 +14,7 @@ I am a Computer science & Information Technology student at Chameli Devi Group o
 
 My primary interests are cloud computing, backend development, and building practical software solutions. I enjoy working with Python and continuously improving my understanding of modern development tools and cloud technologies.
 
-Alongside academics, I serve as Co-Lead of the Artificial Intelligence Hub (AIH), where I contribute to organizing technical events, innovation challenges, and student learning initiatives.
+Alongside academics, I served as Co-Lead of the Artificial Intelligence Hub (AIH), where I contributed to organizing technical events, innovation challenges, and student learning initiatives.
 ---
 
 ## Current Focus
